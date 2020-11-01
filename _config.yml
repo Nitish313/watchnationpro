@@ -126,7 +126,7 @@ navigation_header:
 - title: Home
   url: /
 - title: About me
-  url: /About-me/
+  url: /about-me/
 - title: Blog
   url: /blog/
 - title: Categories
