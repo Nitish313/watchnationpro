@@ -100,9 +100,9 @@ lang: en-GB # Set the site language
 title: "Alembic" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+url: "https://nazeerbai.github.io/Alembic" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/daviddarnes/alembic"
+repo: "https://github.com/nazeerbai/Alembic"
 email: "me@daviddarnes.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # google_analytics: ''
@@ -126,13 +126,13 @@ navigation_header:
 - title: Home
   url: /
 - title: Elements
-  url: /elements/
+  url: /Alembic/elements/
 - title: Blog
-  url: /blog/
+  url: /Alembic/blog/
 - title: Categories
-  url: /categories/
+  url: /Alembic/categories/
 - title: Search
-  url: /search/
+  url: /Alembic/search/
 - title: Fork Alembic
   url: https://github.com/daviddarnes/alembic
 
