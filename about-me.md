@@ -9,17 +9,17 @@ aside: true
 
 I'm a technical writer in Chennai, Tamil Nadu, India, mostly writing developer documentation. I work at Agilysys Technologies India private limited in the Technical communication department, focusing on our company's payment product.
 In TechWritersNation.com blog, which focuses on technical writing, I write about my learning on topics such as the following:
-* Design principles
-* Information authoring
-* SDLC and DDLC
-* Agile methodologies
-* API documentation
-* Graphic Design
-* English grammar
-* Role of videos in the technical documentation space
-* Technical documentation Tools
-* Video Tools
-* Technical documentation careers
+  * Design principles
+  * Information authoring
+  * SDLC and DDLC
+  * Agile methodologies
+  * API documentation
+  * Graphic Design
+  * English grammar
+  * Role of videos in the technical documentation space
+  * Technical documentation Tools
+  * Video Tools
+  * Technical documentation careers
 
 
 And many more...
