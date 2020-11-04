@@ -33,7 +33,7 @@ There are four types of writing styles.
 
 Let us all the writing styles one by one.
 
-### Expository writing style
+### Expository Writing Style
 
 In the expository writing style, as an author, you will be just explaining for informing about something and do not give your own opinion about that. The goal is to explain the concept or important information that they know to a broader audience. Fear the author I will be focusing only on the facts about the topic and include statistics or other evidence available. The author will not be giving any opinion about the topic.
 
@@ -52,7 +52,7 @@ Our blog will be covering extensively technical writing, and as a technical writ
 
 It is necessary to know about other styles of writing also. You can learn more about other skills if you are interested in writing any different types too.
 
-### Descriptive writing style
+### Descriptive Writing Style
 
 In descriptive writing, the author will be giving a lot of details around a person, place, or event. The author's goal is to share details and give readers a sensory experience of what is going on. In explanation, what they hear, see, smell, taste, or touch.
 
@@ -65,7 +65,7 @@ You can follow a descriptive writing style when you are going to write any of th
 * Travel writing
 * Journalism
 
-### Persuasive writing style
+### Persuasive Writing Style
 
 In a persuasive writing style, the author tries to convince the audience about their opinions and beliefs.
 
@@ -86,7 +86,7 @@ You can use the process writing style when you are going to write the following
 
 There are five points that you must consider while writing in a descriptive style.
 
-### Narrative writing style
+### Narrative Writing Style
 
 The narrative style of writing is used in a longer piece of writing, whether it is fiction or non-fiction. You will be trying to construct and communicate a story with characters, conflict, and settings. You will try to cover essential information, and additionally, you are trying to narrate the entire event in your writing.
 
