@@ -47,7 +47,7 @@ Some of the examples of this kind of writing are
 
 If you refer to any of the above, you can notice that the author explains or informs about a particular topic, and they do not impart or say any opinion about it. Hence the author will be neutral about the subject.
 
-Our blog will be covering extensively technical writing, and as a technical writer, you will be following the *expository writing* style.
+Our blog will be covering extensively technical writing, and as a technical writer, you will be following the **expository writing** style.
 
 It is necessary to know about other styles of writing also. You can learn more about other skills if you are interested in writing any other writing styles too.
 
