@@ -9,9 +9,9 @@ aside: true
 
 **NAZURUDEEN J.**
 
-I'm a technical writer in Chennai, Tamil Nadu, India, mostly writing developer documentation. I work at Agilysys Technologies India private limited in the Technical communication department, focusing on our company's payment product.
-In TechWritersNation.com blog, which focuses on technical writing, I write about my learning on topics such as the following:
-  * Design principles
+I'm a technical writer in Chennai, Tamil Nadu, India. I work at a leading hospitality industry based IT products company in the Technical communication department, focusing on our company's payment product.
+In TechWritersNation.com blog, which focuses on technical writing, I will write about my learning and experiences on topics such as the following:
+  * Design principles in technical writing
   * Information authoring
   * SDLC and DDLC
   * Agile methodologies
