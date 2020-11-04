@@ -43,5 +43,7 @@ I also have a desire to grow with writing. I have experimented with other forms 
 
 ## How Do I Contact You?
 If you have a question or want to drop me a line, send your feedback to the e-mail address below.
+
 Nazurudeen J.
+
 nazeerbai@gmail.com
