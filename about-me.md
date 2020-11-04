@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: Nazurudeen J.
 feature_text: |
   All about me, myself and Tech Writing ;)
 feature_image: "https://picsum.photos/2560/600?image=873"
@@ -7,7 +7,6 @@ excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 
-# Nazurudeen J
 I'm a technical writer in Chennai, Tamil Nadu, India, mostly writing developer documentation. I work at Agilysys Technologies India private limited in the Technical communication department, focusing on our company's payment product.
 In TechWritersNation.com blog, which focuses on technical writing, I write about my learning on topics such as the following:
 * Design principles
@@ -21,7 +20,9 @@ In TechWritersNation.com blog, which focuses on technical writing, I write about
 * Technical documentation Tools
 * Video Tools
 * Technical documentation careers
-And many more
+
+
+And many more...
 
 My main interest focuses on writing in general and would like to discuss technical writing specifics later on.
 
