@@ -70,7 +70,7 @@ In a persuasive writing style, the author tries to convince the audience about t
 
 The style of writing will have the author's opinion and biases. It will also justify the reason with evidence to prove the correctness in their position.
 
-You can use the process writing style when you are going to write the following.
+You can use the persuasive writing style when you are going to write the following.
 * Copywriting
 * Brochures
 * Sales writing
