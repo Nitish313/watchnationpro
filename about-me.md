@@ -1,5 +1,5 @@
 ---
-title: Nazurudeen J.
+title: About Me
 feature_text: |
   All about me, myself and Tech Writing ;)
 feature_image: "https://picsum.photos/2560/600?image=873"
