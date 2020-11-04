@@ -21,7 +21,6 @@ In TechWritersNation.com blog, which focuses on technical writing, I write about
   * Video Tools
   * Technical documentation careers
 
-
 And many more...
 
 My main interest focuses on writing in general and would like to discuss technical writing specifics later on.
