@@ -20,7 +20,7 @@ Do you want your audience to experience something?
 
 Do you want your audience to be emotionally inspired and purchase something?
 
-So have a simple idea of what you want to write and what action you are target audience must make. It is as simple as that.
+So have a simple idea of what you want to write and what action your target audience must make. It is as simple as that.
 
 ## Types of writing styles
 
