@@ -7,126 +7,40 @@ excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 
-<small>A small element</small>
+# Nazurudeen J
+I'm a technical writer in Chennai, Tamil Nadu, India, mostly writing developer documentation. I work at Agilysys Technologies India private limited in the Technical communication department, focusing on our company's payment product.
+In TechWritersNation.com blog, which focuses on technical writing, I write about my learning on topics such as the following:
+* Design principles
+* Information authoring
+* SDLC and DDLC
+* Agile methodologies
+* API documentation
+* Graphic Design
+* English grammar
+* Role of videos in the technical documentation space
+* Technical documentation Tools
+* Video Tools
+* Technical documentation careers
+And many more
 
-[A link](https://david.darn.es "A link")
+My main interest focuses on writing in general and would like to discuss technical writing specifics later on.
 
-Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
+## Were You Always a Technical Writer?
 
-Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit in voluptate velit esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `some code` est laborum.
+I have been working on many roles in my past, such as pre-sales, sales, business development, marketing, proposal writing, digital marketing, business analyst, graphic design, 3D animation, along with technical writing. This broad experience as a whole has made me a better technical writer, I guess. At the same time, I realize that there is a lot of learning to do in technical writing, which I would like to experiment with and share my knowledge with everyone. I believe in the principle of "The more I share, the more I get."
+I found that I liked technical writing — a lot more than any writing types, as it is a mixture of interest in writing and technology fascination. After a tragic incident, I realized that it's better to focus on technical writing only and move up the technical documentation career ladder than concentrating on many other roles simultaneously. To my surprise, I found that there is more scope to learn in the IT industry as a technical writer and the pay scale is also good when you increase your skill-sets.
 
-* An item
-* An item
-* An item
-* An item
-* An item
+## What is my Educational Background?
+I earned my mechanical engineering degree from Anna university. After my engineering, I pursued an M.B.A (in marketing) from Alagappa university when working in ICICI Bank as a business analyst.
+My stint at ICICI made me realize that I have a real passion for technology, and I made the mistake of choosing an incorrect stream during my engineering. But, no regrets. Knowledge is always knowledge. Does education background matter in this internet world where all the information is free or low cost? I am glad to be in this technology-driven world and being a technical writer.
 
-1. Item one
-2. Item two
-3. Item three
-4. Item four
-5. Item five
+## Why do I want to write this blog?
+I want to explore and expand my knowledge to go beyond my comfort zone. There is a lot of scope for improvement in the IT industry; I want to experiment and keep myself updated. I also do realize that there are a few basic concepts that I need to unlearn and relearn many things.
+TechWritersNation is my personal blog, where I can make mistakes and learn new things from them.
+For example, I owned a couple of WordPress websites. The loading speed was slow, and I started figuring out solutions for it and learned quite a few concepts to overcome the challenges. Then, I found that rather than hosting a WordPress website (which is mainstream), it is better to have static websites, and the loading speed is significantly less for static sites. At the same time, I can save money on hosting when you can host a website free of cost on GitHub with your domain name. I can learn more concepts through blogging, like search engine optimization, publishing on the web, the latest technology trends, etc.
+I also have a desire to grow with writing. I have experimented with other forms of writing, like business writing, creative writing, etc. I believe that constant writing in blogs will make me search for new topics, think and interrogate it from different perspectives, and improve me as a holistic writer.
 
-> A simple blockquote
-
-Some HTML...
-
-``` html
-<blockquote cite="http://www.imdb.com/title/tt0284978/quotes/qt1375101">
-  <p>You planning a vacation, Mr. Sullivan?</p>
-  <footer>
-    <a href="http://www.imdb.com/title/tt0284978/quotes/qt1375101">Sunways Security Guard</a>
-  </footer>
-</blockquote>
-```
-
-...CSS...
-
-``` css
-blockquote {
-  text-align: center;
-  font-weight: bold;
-}
-blockquote footer {
-  font-size: .8rem;
-}
-```
-
-...and JavaScript
-
-``` js
-const blockquote = document.querySelector("blockquote")
-const bolden = (keyString, string) =>
-  string.replace(new RegExp(keyString, 'g'), '<strong>'+keyString+'</strong>')
-
-blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
-```
-
-`Single line of code`
-
-## HTML Includes
-
-### Contact form
-
-{% include site-form.html %}
-
-``` html
-{% raw %}{% include site-form.html %}{% endraw %}
-```
-
-### Demo map embed
-
-{% include map.html id="1UT-2Z-Vg_MG_TrS5X2p8SthsJhc" title="Coffee shop map" %}
-
-``` html
-{% raw %}{% include map.html id="XXXXXX" title="Coffee shop map" %}{% endraw %}
-```
-
-### Button include
-
-{% include button.html text="A button" link="https://david.darn.es" %}
-
-{% include button.html text="A button with icon" link="https://twitter.com/daviddarnes" icon="twitter" %}
-
-``` html
-{% raw %}{% include button.html text="A button" link="https://david.darn.es" %}
-{% include button.html text="A button with icon" link="https://twitter.com/daviddarnes" icon="twitter" %}{% endraw %}
-```
-
-### Icon include
-
-{% include icon.html id="twitter" title="twitter" %} [{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes)
-
-``` html
-{% raw %}{% include icon.html id="twitter" title="twitter" %}
-[{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes){% endraw %}
-```
-
-### Video include
-
-{% include video.html id="zrkcGL5H3MU" title="Siteleaf tutorial video" %}
-
-``` html
-{% raw %}{% include video.html id="zrkcGL5H3MU" title="Siteleaf tutorial video" %}{% endraw %}
-```
-
-
-### Image includes
-
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Image with caption" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Right aligned image" position="right" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}
-
-``` html
-{% raw %}{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Image with caption" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Right aligned image" position="right" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}{% endraw %}
-```
+## How Do I Contact You?
+If you have a question or want to drop me a line, send your feedback to the e-mail address below.
+Nazurudeen J.
+nazeerbai@gmail.com
