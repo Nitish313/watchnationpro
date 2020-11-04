@@ -7,6 +7,8 @@ excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 
+**NAZURUDEEN J.**
+
 I'm a technical writer in Chennai, Tamil Nadu, India, mostly writing developer documentation. I work at Agilysys Technologies India private limited in the Technical communication department, focusing on our company's payment product.
 In TechWritersNation.com blog, which focuses on technical writing, I write about my learning on topics such as the following:
   * Design principles
