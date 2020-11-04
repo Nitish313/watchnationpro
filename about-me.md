@@ -39,7 +39,8 @@ My stint at ICICI made me realize that I have a real passion for technology, and
 I want to explore and expand my knowledge to go beyond my comfort zone. There is a lot of scope for improvement in the IT industry; I want to experiment and keep myself updated. I also do realize that there are a few basic concepts that I need to unlearn and relearn.
 TechWritersNation is my personal blog, where I can make mistakes and learn new things from the mistake.
 For example, I owned a couple of WordPress websites. The loading speed was slow, and I started figuring out solutions for it and learned quite a few concepts to overcome the challenges. Then, I found that rather than hosting a WordPress website (which is mainstream), it is better to have static websites, and the loading speed is significantly less for static sites. At the same time, I can save money on hosting when you can host a website free of cost on GitHub with your domain name. I can learn more concepts through blogging, like search engine optimization, git, github, programming, publishing on the web, the latest technology trends, etc.
-I also have a desire to grow with writing. I have experimented with other forms of writing, like business writing, creative writing, etc. I believe that constant writing in blogs will make me search for new topics, think and interrogate it from different perspectives, and improve me as a holistic writer.
+
+I also have a desire to grow with writing. I believe that constant writing in blogs will make me search for new topics, think and interrogate it from different perspectives, and sharing those viewes will make me a holistic writer.
 
 ## How Do I Contact You?
 If you have a question or want to drop me a line, send your feedback to the e-mail address below.
