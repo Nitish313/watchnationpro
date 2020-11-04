@@ -85,7 +85,7 @@ You can use the persuasive writing style when you are going to write the followi
 
 ### Narrative Writing Style
 
-The narrative style of writing is used in a longer piece of writing, whether it is fiction or non-fiction. You will be trying to construct and communicate a story with characters, conflict, and settings. You will try to cover essential information, and additionally, you are trying to narrate the entire event in your writing.
+The narrative style of writing is used in a longer piece of writing, whether it is fiction or non-fiction. You will be trying to construct and communicate a story with characters, conflict, and settings. You are trying to cover essential information, at the same time, you are trying to narrate the entire event in your writing.
 
 You will follow a narrative writing style when you are writing the below.
 * Story writing
