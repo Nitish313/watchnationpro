@@ -104,5 +104,3 @@ You will follow a narrative writing style when you are writing the below.
 * Poetry
 * Short stories
 * Anectodes
-
-_Originally from [Alembic - Wikipedia](https://en.wikipedia.org/wiki/Alembic)_
