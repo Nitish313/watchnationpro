@@ -35,7 +35,7 @@ Let us discuss all the writing styles one by one.
 
 ### Expository Writing Style
 
-In the expository writing style, as an author, you will be explaining or informing about a topic and do not give your own opinion about the topic. The goal is to explain the concept or important information that they know to a broader audience. You as an author will focus only on the facts about the topic and include statistics or other evidence available. You must not give any opinion about the topic.
+In the expository writing style, as an author, you will be explaining or informing about a topic and do not give your own opinion about the topic. The goal is to explain the concept or important information to a broader audience. You as an author will focus only on the facts about the topic and include statistics or other evidence available. You must not give any opinion about the topic.
 
 Some of the examples of this kind of writing are
 
