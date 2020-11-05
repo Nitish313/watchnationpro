@@ -38,8 +38,11 @@ My stint at ICICI made me realize that I have a real passion for technology, and
 
 ## Why do I want to write this blog?
 I want to explore and expand my knowledge to go beyond my comfort zone. There is a lot of scope for improvement in the IT industry; I want to experiment and keep myself updated. I also do realize that there are a few basic concepts that I need to unlearn and relearn.
-TechWritersNation.com is my personal blog, where I can make mistakes and learn new things from the mistake.
-For example, I owned a couple of WordPress websites. The loading speed was slow, and I started figuring out solutions for it and learned quite a few concepts to overcome the challenges. Then, I found that rather than hosting a WordPress website (which is mainstream), it is better to have static websites, and the loading speed is significantly less for static sites. At the same time, I can save money on hosting when you can host a website free of cost on GitHub with your domain name. I can learn more concepts through blogging, like search engine optimization, git, github, programming, publishing on the web, the latest technology trends, etc.
+TechWritersNation.com is my personal blog, where I can make mistakes and learn new things from the mistakes I make.
+
+For example, I owned a couple of WordPress websites. The loading speed was slow, and I started figuring out solutions for it and learned quite a few concepts to overcome the challenges. Then, I found that rather than hosting a WordPress website (which is mainstream), it is better to have static websites, and the loading speed is significantly less for static sites. At the same time, I can save money on hosting when you can host a website free of cost on GitHub with your domain name.
+
+I can learn more concepts through blogging, like search engine optimization, git, github, programming, publishing on the web, the latest technology trends, etc.
 
 I also have a desire to grow with writing. I believe that constant writing in blogs will make me search new topics, think and interrogate it from different perspectives, and sharing those views will make me a holistic writer.
 
