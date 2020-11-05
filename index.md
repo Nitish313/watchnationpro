@@ -15,18 +15,18 @@ I wish TechWritersNation is a starting point to share my knowledge and experienc
 --->
 ## What do we cover?
 
-I feel that the basics are more important to get any thing right. So,, I would like to start with the basics of writing first and then branch out to technical writing in detail.
+I feel that the basics are more important to get any thing right. So, I would like to start with the basics of writing first and then branch out to technical writing in detail.
 
 - Types of writers
 - Style of writing  
 - Technical writers vs other writers
-- Types of technical writiing
+- Types of technical writing
 - Role of technical writers in IT industry
 - Skills of technical writers
 - How to launch your career as a technical writer
-- How to increase your skill set?
-- How to increase your salary quick?
-- How to face interview?
+- How to increase your skill set
+- How to increase your salary
+- How to face interview
 
 and many more...
 
