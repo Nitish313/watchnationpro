@@ -13,7 +13,8 @@ The writing style is a way of writing that an author follows to convey their vie
 
 As an author, what do you want your target audience to know, feel, or do. If you are clear on this factor, then writing may come very easily to you.
 Just ask few questions to yourself before you start writing something.
-Do you want your audience to gain know about something?
+
+Do you want your audience to gain knowledge about something?
 
 Do you want your audience to buy something?
 
