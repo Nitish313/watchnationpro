@@ -39,8 +39,9 @@ plugins:
 
 
 # 3. Gem settings
-paginate: 4 # jekyll-paginate > items per page
-paginate_path: blog/page:num # jekyll-paginate > blog page
+paginate: 5 # jekyll-paginate > items per page
+paginate_path: "/blog/page:num/" # jekyll-paginate > blog page
+
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
   username: TechWritersNation # jekyll-seo-tag > Owners twitter username
