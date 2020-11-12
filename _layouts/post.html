@@ -17,6 +17,9 @@ layout: default
     {% include post-comments.html %}
 
   </article>
+  {% if site.disqus.shortname %}
+  {% include disqus_comments.html %}
+{% endif %}
 
   {% if page.aside == true %}{% include site-aside.html %}{% endif %}
 
