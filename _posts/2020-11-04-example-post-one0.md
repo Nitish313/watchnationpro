@@ -1,7 +1,7 @@
 ---
 title: 4 Main Styles of Writing
-categories:
-- General
+categories:General
+permalink: /:categories/:title/
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
