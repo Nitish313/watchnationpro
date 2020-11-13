@@ -4,7 +4,7 @@ feature_text: |
   ## TechWritersNation.com
   A platform to share all about Technical communication and documentation.
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "I wish TechWritersNation is a starting point to share my knowledge and experience in the field of technical writing and communication. I would like to explore more on this stream at the same time willing to help people who wants to get started in the field of technical writing and progress their career."
+excerpt: "I wish TechWritersNation is a starting point to share my knowledge and experience in the field of technical writing and communication."
 ---
 
 I wish TechWritersNation is a starting point to share my knowledge and experience in the field of technical writing and communication. I would like to explore more on this stream at the same time willing to help people who wants to get started in the field of technical writing and progress their career.
