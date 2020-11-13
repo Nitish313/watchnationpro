@@ -86,13 +86,14 @@ defaults:
       type: "pages"
     values:
       layout: page # Set the default layout for pages
+      
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "TechWritersNation" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "TechWritersNation.com is a platform to discuss all about Technical writing" # Site description and default description, also used in jekyll-seo-tag
-url: "https://nazeerbai.github.io/Alembic" # Site url, also used in jekyll-seo-tag
+url: "https://www.techwritersnation.com/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/nazeerbai/Alembic"
 email: "nazeerbai@gmail.com"
