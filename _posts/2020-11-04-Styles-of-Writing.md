@@ -3,7 +3,7 @@ title: 4 Main Styles of Writing
 categories:
 - General
 permalink: /:categories/:title/
-comments: True
+comments: true
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
