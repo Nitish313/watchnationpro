@@ -12,11 +12,12 @@ aside: true
 I'm a technical writer in Chennai, Tamil Nadu, India. I work at a leading hospitality industry based IT products company in the Technical communication department, focusing on our company's payment product.
 In TechWritersNation.com blog, which focuses on technical writing, I will write about my learning and experiences on topics such as the following:
 
-:Left Aligned
-Right Aligned:
-:Center Aligned:
+| Column 1       | Column 2     | Column 3     |
+| :------------- | :----------: | -----------: |
+|  Cell Contents | More Stuff   | And Again    |
+| You Can Also   | Put Pipes In | Like this \| |
 
-<br>
+
 
   * Design principles in technical writing
   * Information authoring
