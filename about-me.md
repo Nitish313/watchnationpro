@@ -12,15 +12,9 @@ aside: true
 I'm a technical writer in Chennai, Tamil Nadu, India. I work at a leading hospitality industry based IT products company in the Technical communication department, focusing on our company's payment product.
 In TechWritersNation.com blog, which focuses on technical writing, I will write about my learning and experiences on topics such as the following:
 
-+---------------+---------------+--------------------+
-| Fruit         | Price         | Advantages         |
-+===============+===============+====================+
-| Bananas       | $1.34         | - built-in wrapper |
-|               |               | - bright color     |
-+---------------+---------------+--------------------+
-| Oranges       | $2.10         | - cures scurvy     |
-|               |               | - tasty            |
-+---------------+---------------+--------------------+
+:Left Aligned
+Right Aligned:
+:Center Aligned:
 
 <br>
 
