@@ -128,6 +128,8 @@ navigation_header:
   url: /categories/
 - title: Search
   url: /search/
+- title: Contact
+  url: /contact/
 navigation_footer:
 - title: Created by TechWritersNation
   url: https://techwritersnation.com

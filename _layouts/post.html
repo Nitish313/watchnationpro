@@ -1,6 +1,6 @@
 ---
 layout: default
-comments: True
+
 ---
 
 {% include site-header.html %}
@@ -18,9 +18,17 @@ comments: True
     {% include post-comments.html %}
 
   </article>
- 
+
   {% if page.aside == true %}{% include site-aside.html %}{% endif %}
+  <div id="hyvor-talk-view"></div>
+<script type="text/javascript">
+    var HYVOR_TALK_WEBSITE = 2384; // DO NOT CHANGE THIS
+    var HYVOR_TALK_CONFIG = {
+        url: '{{ page.url | absolute_url }}',
+        id: '{{page.id}}'
+    };
+</script>
+<script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
 
 </main>
-
 {% include site-footer.html %}
