@@ -13,7 +13,7 @@ I'm a technical writer in Chennai, Tamil Nadu, India. I work at a leading hospit
 In TechWritersNation.com blog, which focuses on technical writing, I will write about my learning and experiences on topics such as the following:
 
 | Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
+|----------|---------------|-------|
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
