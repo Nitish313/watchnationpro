@@ -1,34 +1,18 @@
 ---
 layout: default
-
+comments: True
 ---
-
 {% include site-header.html %}
-
 <main class="main  container">
-
   <article class="article  article--post  content  typeset">
-
     <h1>{{ page.title }}</h1>
     {% include post-meta.html %}
     {{ content }}
-
     {% include nav-share.html %}
-
     {% include post-comments.html %}
-
   </article>
-
   {% if page.aside == true %}{% include site-aside.html %}{% endif %}
-  <div id="hyvor-talk-view"></div>
-<script type="text/javascript">
-    var HYVOR_TALK_WEBSITE = 2384; // DO NOT CHANGE THIS
-    var HYVOR_TALK_CONFIG = {
-        url: '{{ page.url | absolute_url }}',
-        id: '{{page.id}}'
-    };
-</script>
-<script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
 
 </main>
+
 {% include site-footer.html %}
