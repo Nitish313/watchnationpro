@@ -1,6 +1,6 @@
 ---
-layout: pagr
-tittle: Contact
+layout: page
+title: Contact
 ---
 
 Contact me using the Form.
