@@ -20,8 +20,7 @@ layout: default
   </article>
 
 {% if page.aside == true %}{% include site-aside.html %}{% endif %
-</main>
-<div id="hyvor-talk-view"></div>
+  <div id="hyvor-talk-view"></div>
 <script type="text/javascript">
     var HYVOR_TALK_WEBSITE = 2384; // DO NOT CHANGE THIS
     var HYVOR_TALK_CONFIG = {
@@ -29,5 +28,10 @@ layout: default
         id: '{{page.id}}'
     };
 </script>
-<script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
+<script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script> 
+  
+
+</main>
+
+
 {% include site-footer.html %}
