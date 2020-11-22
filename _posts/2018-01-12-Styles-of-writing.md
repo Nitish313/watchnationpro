@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Styles of writing"
-meta_description: "Explore the various styles of writing, and courses that can help you get started with."
-description: "meta or normal"
+description: "Explore the various styles of writing, and courses that can help you get started with."
 categories: [ Basics, writing ]
 permalink: /:categories/:title/
 image: assets/images/1.jpg
