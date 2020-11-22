@@ -1,13 +1,13 @@
 # Site
 name: "TimeNationPro.com"
 title: "Home | TimeNationPro.com "
-description: "Love watches? Look for the perfect watches to add to your watch collection with our buying guides, expert tips and reviews from TimeNationPro.com"
-meta_description: "Love watches? Look for the perfect watches to add to your watch collection with our buying guides, expert tips and reviews from TimeNationPro.com"
+description: "Love Writing? Looking for a career to be Technical writer? Find the ultimate guidance in my blog to find the basic, career related and advanced stuff in the world of Technical communication industry. "
+meta_description: "Love Writing? Looking for a career to be Technical writer? Find the ultimate guidance in my blog to find the basic, career related and advanced stuff in the world of Technical communication industry."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: '/'
-email: 'jumpingjoytechsolutions@gmail.com'
+email: 'nazeerbai@gmail.com'
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
@@ -15,13 +15,13 @@ sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/
 # Authors
 authors:
   sal:
-    name: jumpingjoytechsolutions
-    display_name: JJTech
+    name: Nazurudeen J.
+    display_name: Nazurudeen J.
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: jumpingjoytechsolutions@gmail.com
+    email: nazeerbai@gmail.com
     web:
     twitter: https://twitter.com/wowthemesnet
-    description: "JJTech is the Administrator of all the content writers working at TimeNationPro.com."
+    description: "Nazurudeen J. is the Administrator of all the content writers working at TechWritersNation.com."
 
 # Plugins
 plugins:
