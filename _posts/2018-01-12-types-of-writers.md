@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Types of Writers"
-author: Nazurudeen J
+author: Nazurudeen
 categories: [ Basics, writing ]
 permalink: /:categories/:title/
 image: assets/images/2.jpg

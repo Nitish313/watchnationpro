@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Styles of writing"
-author: Nazurudeen J
+author: Nazurudeen
 description: "Explore the various styles of writing, and courses that can help you get started with."
 categories: [ Basics, writing ]
 permalink: /:categories/:title/
