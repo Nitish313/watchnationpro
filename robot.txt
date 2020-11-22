@@ -1,9 +1,0 @@
----
-layout: none
----
-User-agent: *
-Sitemap: {{ site.url }}/sitemap.xml
-Disallow: /_backups/
-Disallow: {{ site.url}}/general/2016/08/27/example-post-one0/
-Disallow: {{ site.url}}/general/2016/08/27/example-post-two/
-Disallow: {{ site.url}}/general/2016/08/27/example-post-three/
