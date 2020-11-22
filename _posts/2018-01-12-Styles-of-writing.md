@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Styles of writing"
-categories: [ Basics of writing ]
+categories: [ Basics, writing ]
 permalink: /:categories/:title/
 image: assets/images/1.jpg
 featured: false
