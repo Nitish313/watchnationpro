@@ -2,7 +2,7 @@
 layout: post
 title:  "Sjjtyles of writing"
 author: Nazurudeen
-description: "Explore the various styles of writing, and courses that can help you get started with."
+description: "Explore the various styles of writing with depicting examples, and guidance on courses that can help you get started with."
 categories: [ Basics, writing ]
 permalink: /:categories/:title/
 image: assets/images/styles-of-writing.png
