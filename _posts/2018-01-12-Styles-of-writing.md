@@ -119,5 +119,8 @@ You will follow a narrative writing style when you are writing the below.
 * Short stories
 * Anectodes
 
+Take a course on narrative writing style [here](https://www.domestika.org/en/courses/1020-introduction-to-narrative-writing), If you want to learn narrative style of writing in detail.
+
+
 
 Can you notice the difference in styles? All you need is a little bit of practice, a little bit of common sense and perseverance to get things right!
