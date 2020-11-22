@@ -20,6 +20,7 @@ It is necessary to have a clear understanding of the different writing styles an
 		- [Descriptive Writing Style](#descriptive-writing-style)
 		- [Persuasive Writing Style](#persuasive-writing-style)
 		- [Narrative Writing Style](#narrative-writing-style)
+	- [Conclusion](#conclusion)
 
 <!-- /TOC -->
 
@@ -77,7 +78,6 @@ You can follow a descriptive writing style when you are going to write any of th
 * [Fiction writing](https://examples.yourdictionary.com/5-flash-fiction-examples-to-inspire-and-entertain.html)
 * [Creative writing](https://writingtipsoasis.com/examples-of-creative-writing/)
 * [Poetry](https://lithub.com/the-32-most-iconic-poems-in-the-english-language/)
-* [Biography](https://examples.yourdictionary.com/short-professional-bio-examples.html)
 * [Travel writing](https://www.under30experiences.com/blog/top-10-travel-bloggers-you-should-already-be-following)
 * [Journalism](https://www.journalbuddies.com/journaling-resources/journal-writing-examples/)
 
@@ -88,17 +88,17 @@ In a persuasive writing style, the author tries to convince the audience about t
 The style of writing will have the author's opinion and biases. It will also justify the reason with evidence to prove the correctness in their position.
 
 You can use the persuasive writing style when you are going to write the following.
-* Copywriting(https://sleeknote.com/blog/copywriting-examples)
-* Brochures(https://copywritematters.com/good-bad-brochure-copywriting/)
-* Sales writing(https://blog.close.com/sales-emails/)
-* Shopping catalogs(https://www.ipaper.io/blog/examples-of-online-catalogs)
-* Speeches(https://www.examples.com/education/speech-writing.html)
-* Reviews(https://gadgets.ndtv.com/reviews)
-* Cover letters(https://www.indeed.com/career-advice/resumes-cover-letters/cover-letter-checklist)
-* Editorial newspaper articles(https://www.nytimes.com/section/opinion/editorials)
-* Complaint letter(https://www.scribendi.com/academy/articles/example_complaint_letter.en.html)
-* Advertisement(https://schools.aglasem.com/136742)
-* Recommendation letter(https://in.indeed.com/career-advice/career-development/letter-of-recommendation)
+* [Copywriting](https://sleeknote.com/blog/copywriting-examples)
+* [Brochures](https://copywritematters.com/good-bad-brochure-copywriting/)
+* [Sales writing](https://blog.close.com/sales-emails/)
+* [Shopping catalogs](https://www.ipaper.io/blog/examples-of-online-catalogs)
+* [Speeches](https://www.examples.com/education/speech-writing.html)
+* [Reviews](https://gadgets.ndtv.com/reviews)
+* [Cover letters](https://www.indeed.com/career-advice/resumes-cover-letters/cover-letter-checklist)
+* [Editorial newspaper articles](https://www.nytimes.com/section/opinion/editorials)
+* [Complaint letter](https://www.scribendi.com/academy/articles/example_complaint_letter.en.html)
+* [Advertisement](https://schools.aglasem.com/136742)
+* [Recommendation letter](https://in.indeed.com/career-advice/career-development/letter-of-recommendation)
 
 You can find persuasive style of writing where the writer is wanting you to take some action because of the content like a sale of a product, or give job or influence the voters to vote for them. If you are finding that you are trying to be persuaded while reading a piece of content, then you can know that you have just witnessed a persuasive style of writing.
 
@@ -106,22 +106,16 @@ You can find persuasive style of writing where the writer is wanting you to take
 
 The narrative style of writing is used in a longer piece of writing, whether it is fiction or non-fiction. You will be trying to construct and communicate a story with characters, conflict, and settings. You are trying to cover essential information, at the same time, you are trying to narrate the entire event in your writing.
 
-You will follow a narrative writing style when you are writing the below.
-* Story writing
-* Scriptwriting
-* Non-fiction
-* Writing a diary
-* Journal entries
-* Biography
-* Narratives
-* Prose
-* Oral histories
-* Novels
-* Poetry
-* Short stories
-* Anectodes
+You will follow a narrative writing style when you are writing like the following examples.
+* [Story storeies](http://www.english-for-students.com/Examples-of-Short-Stories.html)
+* [Scriptwriting](https://www.studiobinder.com/blog/how-to-write-a-screenplay/)
+* [Writing a diary](https://www.toppr.com/en-in/content/concept/diary-entry-205415/)
+* [Journal entries](http://www.svtuition.org/2010/07/journal-entries-examples.html)
+* [Biography](https://examples.yourdictionary.com/short-professional-bio-examples.html)
+* [Prose](https://literarydevices.net/prose/)
+* [Novels](https://literarydevices.net/novel/)
 
-Take a course on narrative writing style [here](https://www.domestika.org/en/courses/1020-introduction-to-narrative-writing), If you want to learn narrative style of writing in detail.
+Take a course on narrative writing style [here](https://www.domestika.org/en/courses/1020-introduction-to-narrative-writing), if you want to learn narrative style of writing in detail.
 
 
 ## Conclusion
