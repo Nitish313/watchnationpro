@@ -5,7 +5,7 @@ author: Nazurudeen
 description: "Explore the various styles of writing, and courses that can help you get started with."
 categories: [ Basics, writing ]
 permalink: /:categories/:title/
-image: assets/images/1.jpg
+image: assets/images/styles-of-writing.jpg
 featured: false
 ---
 
@@ -53,18 +53,18 @@ Let us discuss all the writing styles one by one.
 
 In the expository writing style, as an author, you will be explaining or informing about a topic and do not give your own opinion about the topic. The goal is to explain the concept or important information to a broader audience. You as an author will focus only on the facts about the topic and include statistics or other evidence available. You must not give any opinion about the topic.
 
-Some of the examples of this kind of writing are
+Refer to some of the examples of this kind of writing here:
 
-* How-to articles
-* Recipes
-* Textbooks
-* Technical writing
-* Business writing
-* Scientific writing
+* [How-to articles](https://www.microsoft.com/en-us/software-download/windows10startfresh)
+* [Recipes] (https://butterwithasideofbread.com/homemade-bread/)
+* [Textbooks](https://www.amazon.in/dp/1497408180?tag=hackr0df-21)
+* [Technical Manual](https://library.e.abb.com/public/77e14a51c87d49aeba777e288ec93530/NextECMUpload_1874426_20200221161922.pdf)
+* [Business writing](https://www.counterpointresearch.com/global-smartphone-share/)
+* [Scientific writing](https://www.scientificamerican.com/article/evaluating-covid-risk-on-planes-trains-and-automobiles2/)
 
-If you refer to any of the above, you can notice that the author explains or informs about a particular topic, and they do not impart or say any opinion about it. Hence the author will be neutral about the subject.
+If you refer to any of the following example articles, you can notice that the author explains or informs about a particular topic, and they do not impart or say any opinion about it. You cannot find any words or phrases appreciating or talking high about the Windows OS that it is a great OS, or about the taste of the bread that it is lip smacking etc. This kind of writing will merely explain what is the process and that's it. Hence the author will be neutral about the subject.
 
-Our blog will be covering extensively technical writing, and as a technical writer, you will be following the **expository writing** style.
+Our blog will be covering extensively technical writing style, and as a technical writer, you will be following the **expository writing** style.
 
 It is necessary to know about other styles of writing also. You can learn more about other skills if you are interested in writing any other writing styles too.
 
@@ -100,6 +100,8 @@ You can use the persuasive writing style when you are going to write the followi
 * Advertisement
 * Recommendation letter
 
+You can find persuasive style of writing where the writer is wanting you to take some action because of the content like a sale of a product, or give job or influence the voters to vote for them. If you are finding that you are trying to be persuaded while reading a piece of content, then you can know that you have just witnessed a persuasive style of writing.
+
 ### Narrative Writing Style
 
 The narrative style of writing is used in a longer piece of writing, whether it is fiction or non-fiction. You will be trying to construct and communicate a story with characters, conflict, and settings. You are trying to cover essential information, at the same time, you are trying to narrate the entire event in your writing.
@@ -122,5 +124,5 @@ You will follow a narrative writing style when you are writing the below.
 Take a course on narrative writing style [here](https://www.domestika.org/en/courses/1020-introduction-to-narrative-writing), If you want to learn narrative style of writing in detail.
 
 
-
-Can you notice the difference in styles? All you need is a little bit of practice, a little bit of common sense and perseverance to get things right!
+Conclusion:
+Can you notice the difference in styles? All you need is a little bit of practice, a little bit of common sense and perseverance to get things right! No style is inferior to other and writing is always a fun task to do. I really enjoy following Technical writing style and Persuasive writing style because of my passion in learning technology and business. Try different types of writing during your free time. Share it with your friends and family and let us know in the comments below about the feedback your received.
