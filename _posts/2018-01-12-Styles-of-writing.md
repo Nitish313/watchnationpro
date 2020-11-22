@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sjjtyles of writing"
+title:  "Styles of writing"
 author: Nazurudeen
 description: "Explore the various styles of writing with depicting examples, and guidance on courses that can help you get started with."
 categories: [ Basics, writing ]
@@ -56,7 +56,7 @@ In the expository writing style, as an author, you will be explaining or informi
 Refer to some of the examples of this kind of writing here:
 
 * [How-to articles](https://www.microsoft.com/en-us/software-download/windows10startfresh)
-* [Recipes] (https://butterwithasideofbread.com/homemade-bread/)
+* [Recipes](https://butterwithasideofbread.com/homemade-bread/)
 * [Textbooks](https://www.amazon.in/dp/1497408180?tag=hackr0df-21)
 * [Technical Manual](https://library.e.abb.com/public/77e14a51c87d49aeba777e288ec93530/NextECMUpload_1874426_20200221161922.pdf)
 * [Business writing](https://www.counterpointresearch.com/global-smartphone-share/)
@@ -74,12 +74,12 @@ In descriptive writing, as an author you will be giving a lot of details around 
 
 You can follow a descriptive writing style when you are going to write any of the following.
 
-* Fiction writing
-* Creative writing
-* Poetry
-* Biography
-* Travel writing
-* Journalism
+* [Fiction writing](https://examples.yourdictionary.com/5-flash-fiction-examples-to-inspire-and-entertain.html)
+* [Creative writing](https://writingtipsoasis.com/examples-of-creative-writing/)
+* [Poetry](https://lithub.com/the-32-most-iconic-poems-in-the-english-language/)
+* [Biography](https://examples.yourdictionary.com/short-professional-bio-examples.html)
+* [Travel writing](https://www.under30experiences.com/blog/top-10-travel-bloggers-you-should-already-be-following)
+* [Journalism](https://www.journalbuddies.com/journaling-resources/journal-writing-examples/)
 
 ### Persuasive Writing Style
 
@@ -88,17 +88,17 @@ In a persuasive writing style, the author tries to convince the audience about t
 The style of writing will have the author's opinion and biases. It will also justify the reason with evidence to prove the correctness in their position.
 
 You can use the persuasive writing style when you are going to write the following.
-* Copywriting
-* Brochures
-* Sales writing
-* Shopping catalogs
-* Speeches
-* Reviews
-* Cover letters
-* Office and editorial newspaper articles
-* Complaint letter
-* Advertisement
-* Recommendation letter
+* Copywriting(https://sleeknote.com/blog/copywriting-examples)
+* Brochures(https://copywritematters.com/good-bad-brochure-copywriting/)
+* Sales writing(https://blog.close.com/sales-emails/)
+* Shopping catalogs(https://www.ipaper.io/blog/examples-of-online-catalogs)
+* Speeches(https://www.examples.com/education/speech-writing.html)
+* Reviews(https://gadgets.ndtv.com/reviews)
+* Cover letters(https://www.indeed.com/career-advice/resumes-cover-letters/cover-letter-checklist)
+* Editorial newspaper articles(https://www.nytimes.com/section/opinion/editorials)
+* Complaint letter(https://www.scribendi.com/academy/articles/example_complaint_letter.en.html)
+* Advertisement(https://schools.aglasem.com/136742)
+* Recommendation letter(https://in.indeed.com/career-advice/career-development/letter-of-recommendation)
 
 You can find persuasive style of writing where the writer is wanting you to take some action because of the content like a sale of a product, or give job or influence the voters to vote for them. If you are finding that you are trying to be persuaded while reading a piece of content, then you can know that you have just witnessed a persuasive style of writing.
 
@@ -124,5 +124,5 @@ You will follow a narrative writing style when you are writing the below.
 Take a course on narrative writing style [here](https://www.domestika.org/en/courses/1020-introduction-to-narrative-writing), If you want to learn narrative style of writing in detail.
 
 
-Conclusion:
+## Conclusion
 Can you notice the difference in styles? All you need is a little bit of practice, a little bit of common sense and perseverance to get things right! No style is inferior to other and writing is always a fun task to do. I really enjoy following Technical writing style and Persuasive writing style because of my passion in learning technology and business. Try different types of writing during your free time. Share it with your friends and family and let us know in the comments below about the feedback your received.
