@@ -6,6 +6,7 @@ categories: [ Basics, writing ]
 permalink: /:categories/:title/
 image: assets/images/1.jpg
 featured: false
+author: Nazurudeen J
 ---
 
 
