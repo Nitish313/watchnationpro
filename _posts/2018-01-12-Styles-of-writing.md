@@ -1,11 +1,15 @@
 ---
 layout: post
 title:  "Styles of writing"
-categories: [ Basics of Writing ]
+categories: [ Basics of writing ]
 permalink: /:categories/:title/
 image: assets/images/1.jpg
-featured: true
+featured: false
 ---
+
+
+It is necessary to have a clear understanding of the different writing styles and the purpose each style serves in writing. This article will explore the types of writing styles and share some tips that will help you to apply styles in your writing.
+
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [What is a writing style, and how to use writing styles?](#what-is-a-writing-style-and-how-to-use-writing-styles)
@@ -16,8 +20,6 @@ featured: true
 		- [Narrative Writing Style](#narrative-writing-style)
 
 <!-- /TOC -->
-
-It is necessary to have a clear understanding of the different writing styles and the purpose each style serves in writing. This article will explore the types of writing styles and share some tips that will help you to apply styles in your writing.
 
 # What is a writing style, and how to use writing styles?
 
