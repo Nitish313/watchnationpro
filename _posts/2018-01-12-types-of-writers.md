@@ -1,36 +1,47 @@
 ---
 layout: post
-title:  "Types of Writers"
-author: Nazurudeen
+title:  "Types of copywritematters"
+description: "In this article, you will get an overview of the various types of writers and their job. You can choose to become one move up the career ladder."
 categories: [ Basics, Writing ]
 permalink: /:categories/:title/
-image: assets/images/2.jpg
+image: assets/images/styles-of-writing.png
+featured: false
+author: Nazurudeen
 ---
-
+## Subject Matter Experts
+They need to have in-depth knowledge of a particular subject, domain, product, or service. For example, some of the subject matter experts available in the IT domain are developers and QA testers. They act as SMEs for the IT products they are dealing with. They can write their own content based on their expert knowledge. As a technical writer, we must be in constant touch with these SMEs and hold an interview, whenever necessary, with the SMEs to get to know about the product.
 
 ## Generalists
-So these writers are generalists are jacks of all trades basically.
-Okay so they can be great choices for high volume and short awareness level content. And this type of writing does not require a lot of expertise unlike a subject matter experts.
+So these generalist writers are jacks of all trades, basically. They can be great choices for high volume and short awareness-level content. And this type of writing does not require a lot of expertise, unlike subject matter experts. They can write on any topic based on comprehensive online research.
 
-## Subject Matter Experts
-They need to have in-depth knowledge for a particular domain or you know if you have to write textbooks say for example on physics known.
 
-SEO generalist
-SEO generalist is basically anyone who has a little knowledge about you.
-In fact a lot of knowledge about is you you know writers these days how it works like good practice
-create and they submit it.
-But before it is being published online and it goes like what happens there is a theme of SEO analysys.
-So they look into it and they see if everything matches to the SEO standards.
-Whether it has content that will have good organic reach and they are going to make it SEO ready before having the blog being published online.
-So yeah these are the ones they know how to integrate the target keywords, the phrases into your
-digital content.
-This is mainly to maximize your organic search.
-These are the people whom you need to rely on in order to better rank your content organically.
-And in order to build more traffic.
-So if the subject matter experts have written each and every detail and everything  that people are wanting to read.
-But if the SEO copywriter did not make your blog content SEO ready , even if the blog content is highly informative written by a subject matter expert, even then it is not going to be reaching out to the right audience or gain traffic.
-so SEO generalists are a very important layer in the creative in the content writing industry.
-That is why even in the job descriptions that you will see basics of a SEO understanding is always preferred.
+
+## SEO generalist
+SEO generalist is basically anyone who has a little knowledge about SEO.
+In fact, a lot of knowledge about SEO is required for writers these days rather than following the principle of "Write and Submit". Knowledge about SEO is required to bring people to read it online.
+
+If you do not know what is SEO, let me explain. Let us assume that Sam wants to know about insects places a search query in Google, for example, using the keyword "spiders."
+
+What happens now?
+1. Google bots make a quick organic search of all the pages available on the internet regarding insects.
+2. Google selects the best and most informative content and displays it on top of the results page for you to view it.
+3. Google selects the next best content below.
+4. Google selects the third best content below...and so on.
+Now Sam clicks the first result insects and reads it, and he is happy to learn about spiders.
+
+So, What did the page writers do to make the pages reach the top. The writer who created the page that is listed at the top knows how to make the content the "best"? He has followed certain rules or procedures to make the content the "best So, he knows how to optimize the content for the search engines like google.
+
+In this internet world, every writer must know how to make their content SEO ready so that it can drive people through search engines to read it. ."
+
+How can you make a content SEO ready? By contacting an SEO generalist. They know the tactics to make normal content (written by an SME or generalist) into an SEO ready content. So they look into the generalist content, and they will analyze to see if everything matches to the SEO standards, whether it has content that will have a good organic reach, and make changes to it before published online.
+
+What will happen when the content is not made SEO ready?
+Let us assume that if a subject matter experts have written each and every detail and everything that people want to read. But if the SEO copywriter did not make your blog content SEO ready, even if the blog content is highly informative written by a subject matter expert, even then, it is not going to be reaching out to the right audience or gain traffic.
+
+So SEO generalists are a very important layer in the creative in the content writing industry. That is why, even in the job descriptions that you will see, the basics of an SEO understanding are always preferred.
+
+
+-----------------------------
 
 UX/UI Writers
 So they are involved with writing the core pages for the websites like the links, the buttons, and make sure that the website or the app is convenient to use according to the hierarchy of information .
