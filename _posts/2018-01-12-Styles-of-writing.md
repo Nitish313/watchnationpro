@@ -8,7 +8,26 @@ image: assets/images/styles-of-writing.png
 featured: false
 author: Nazurudeen
 ---
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://mincong-h.github.io/2018/08/21/why-you-should-use-auto-value-in-java/",
+  "name": "Why You Should Use Auto Value in Java?",
+  "headline": "Why You Should Use Auto Value in Java?",
+  "keywords": "java,auto-value",
+  "description": "Auto Value generates immutable value classes during Java compilation, including equals(), hashCode(), toString(). It lighten your load from writing these boilerplate source code.",
+  "datePublished": "2018-08-21 07:22:49 +0000",
+  "dateModified": "2018-08-21 07:22:49 +0000",
+  "author": {
+    "@type": "Person",
+    "name": "Mincong Huang",
+    "givenName": "Mincong",
+    "familyName": "Huang",
+    "email": "mincong.h@gmail.com"
+  }
+}
+</script>
 
 It is necessary to have a clear understanding of the different writing styles and the purpose each style serves in writing. This article will explore the types of writing styles and share some tips that will help you to apply styles in your writing.
 
