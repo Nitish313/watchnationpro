@@ -5,8 +5,8 @@
   "url": "{{ site.url }}",
   "description": "{{ site.description }}",
   "dateModified": "{{ site.time | date_to_xmlschema }}",
-  "creator": {
+  "author": {
     "@type": "Person",
-    "name": "John Doe"
+    "name": {{ site.author_name | jsonify }},
    }
 }
