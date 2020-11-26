@@ -4,7 +4,7 @@ title:  "Types of writers"
 description: "In this article, you will get an overview of the various types of writers and their job. You can choose to become one move up the career ladder."
 categories: [ Basics, Writing ]
 permalink: /:categories/:title/
-image: assets/images/styles-of-writing.png
+image: assets/images/types-of-writing.png
 featured: false
 author: Nazurudeen
 ---
@@ -76,29 +76,3 @@ So all this has to be focused on your sales pitch, which would be written and ge
 So what's if you say that "YES! I AM INTERESTED. GIVE ME MORE INFORMATION" as a lead.
 Right.
 Then you have your sales team contacting the leads and trying to kind of make them purchase the product or service.
-
-
------------------------------
-
-
-Then next you have your influences influenced us.
-These these are these influences they would add credibility to your content to the niche market and
-their audience.
-It's because of their influence that they are trying and pushing your product because of the influence
-that they have on their audience or on that far less people would want to.
-Likely you'll see a product your syllabuses or whatsoever.
-So if at all you want to open celebrities Instagram influencers these days Influence marketing is also
-like a major thing.
-So on Instagram so if I have you know there is no age or goes the age yet that's a lot of make up reviews
-and she has like 20000 plus followers.
-Right.
-So maybe if I'm a newbie into the industry with my line of makeup products I would not afford celebrities.
-Right.
-So they're pretty expensive to get the men to endorse my product.
-So what I believe said look at these small time influencers like 20000 thousand people who have followers
-and stuff like that.
-I would approach them and I would like you know contact them and see how it works and what's their charges
-and stuff that and ask them to kind of give a review on my product already you know to kind of influence
-their audience that my product or you know just basically to advertise for my product using that influence.
-
-.
