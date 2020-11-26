@@ -7,7 +7,6 @@ permalink: /:categories/:title/
 image: assets/images/styles-of-writing.png
 featured: false
 author: Nazurudeen
----
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -28,6 +27,8 @@ author: Nazurudeen
   }
 }
 </script>
+---
+
 
 It is necessary to have a clear understanding of the different writing styles and the purpose each style serves in writing. This article will explore the types of writing styles and share some tips that will help you to apply styles in your writing.
 
