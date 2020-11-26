@@ -8,7 +8,7 @@ favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: '/'
 email: 'nazeerbai@gmail.com'
-google_analytics_4: 'G-9KKHQ5Z5XZ'
+google_analytics: 'G-9KKHQ5Z5XZ'
 disqus: 'demowebsite'
 sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
 
