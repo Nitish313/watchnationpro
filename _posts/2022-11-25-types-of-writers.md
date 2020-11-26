@@ -4,7 +4,7 @@ title:  "Types of writers"
 description: "In this article, you will get an overview of the various types of writers and their job. You can choose to become one move up the career ladder."
 categories: [ Basics, Writing ]
 permalink: /:categories/:title/
-image: assets/images/types-of-writing.png
+image: assets/images/types-of-writers.png
 featured: false
 author: Nazurudeen
 ---
