@@ -108,7 +108,6 @@ The style of writing will have the author's opinion and biases. It will also jus
 
 You can use the persuasive writing style when you are going to write the following.
 * [Copywriting](https://sleeknote.com/blog/copywriting-examples)
-* [Brochures](https://copywritematters.com/good-bad-brochure-copywriting/)
 * [Sales writing](https://blog.close.com/sales-emails/)
 * [Shopping catalogs](https://www.ipaper.io/blog/examples-of-online-catalogs)
 * [Speeches](https://www.examples.com/education/speech-writing.html)
