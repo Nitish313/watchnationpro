@@ -2,31 +2,12 @@
 layout: post
 title:  "Styles of writing"
 description: "Explore the various styles of writing with depicting examples, and guidance on courses that can help you get started with Technical writing and other styles of writing."
+excerpt: "example excerpt"
 categories: [ Basics, Writing ]
-permalink: /:categories/:title/
+permalink: /:title/
 image: assets/images/styles-of-writing.png
 featured: false
 author: Nazurudeen
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "https://mincong-h.github.io/2018/08/21/why-you-should-use-auto-value-in-java/",
-  "name": "Why You Should Use Auto Value in Java?",
-  "headline": "Why You Should Use Auto Value in Java?",
-  "keywords": "java,auto-value",
-  "description": "Auto Value generates immutable value classes during Java compilation, including equals(), hashCode(), toString(). It lighten your load from writing these boilerplate source code.",
-  "datePublished": "2018-08-21 07:22:49 +0000",
-  "dateModified": "2018-08-21 07:22:49 +0000",
-  "author": {
-    "@type": "Person",
-    "name": "Mincong Huang",
-    "givenName": "Mincong",
-    "familyName": "Huang",
-    "email": "mincong.h@gmail.com"
-  }
-}
-</script>
 ---
 
 
