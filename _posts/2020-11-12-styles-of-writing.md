@@ -4,7 +4,7 @@ title:  "Styles of Writing"
 description: "Explore the various styles of writing with depicting examples, and guidance on courses that can help you get started with Technical writing and other styles of writing."
 excerpt: "Explore the various styles of writing with depicting examples, and guidance on courses that can help you get started with Technical writing and other styles of writing."
 categories: [ Basics, Writing ]
-permalink: /:categories/:title/
+permalink: /:title/
 image: assets/images/styles-of-writing.png
 featured: false
 author: Nazurudeen

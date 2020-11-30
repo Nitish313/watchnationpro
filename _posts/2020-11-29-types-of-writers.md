@@ -4,7 +4,7 @@ title:  "Types of writers"
 description: "Get an overview of the various types of writers, job role and salary range. You can choose the writer type to become one start earning more moving up the career ladder."
 excerpt: "Get an overview of the various types of writers, job role and salary range. You can choose the writer type to become one start earning more moving up the career ladder."
 categories: [ Basics, Writing ]
-permalink: /:categories/:title/
+permalink: /:title/
 image: assets/images/types-of-writers.png
 featured: false
 author: Nazurudeen
