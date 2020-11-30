@@ -18,7 +18,9 @@ post_class: post-template
 
 		<!-- Post -->
         {% assign author = site.authors[page.author] %}
-
+		<div class="breadcrumbs">
+				{% include breadcrumbs.html %}
+		</div>
 		<div class="col-sm-8">
 			<div class="mainheading">
 
@@ -32,9 +34,7 @@ post_class: post-template
                         </li>
                         {% endfor %}
                     </ul>
-										<ul class="breadcrumbs">
-                        {% include breadcrumbs.html %}
-                    </ul>
+
                 </div>
                 <!-- End Categories -->
 
