@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Styles of writing"
+title:  "Styles of Writing"
 description: "Explore the various styles of writing with depicting examples, and guidance on courses that can help you get started with Technical writing and other styles of writing."
-excerpt: "example excerpt"
+excerpt: "Explore the various styles of writing with depicting examples, and guidance on courses that can help you get started with Technical writing and other styles of writing."
 categories: [ Basics, Writing ]
 permalink: /:title/
 image: assets/images/styles-of-writing.png
@@ -54,6 +54,8 @@ Let us discuss all the writing styles one by one.
 ### Expository Writing Style
 
 In the expository writing style, as an author, you will be explaining or informing about a topic and do not give your own opinion about the topic. The goal is to explain the concept or important information to a broader audience. You as an author will focus only on the facts about the topic and include statistics or other evidence available. You must not give any opinion about the topic.
+
+
 
 Refer to some of the examples of this kind of writing here:
 
