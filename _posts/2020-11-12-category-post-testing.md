@@ -2,7 +2,7 @@
 layout: post
 title:  "Post test in category"
 categories: Basics
-permalink: /:title/
+permalink: /:category/:title/
 image: assets/images/styles-of-writing.png
 featured: false
 author: Nazurudeen
