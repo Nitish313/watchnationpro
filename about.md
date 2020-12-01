@@ -1,6 +1,5 @@
 ---
-layout: archive
-type: category
+layout: page
 title: About Me
 comments: true
 ---
