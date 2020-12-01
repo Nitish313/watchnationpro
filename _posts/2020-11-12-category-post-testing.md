@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Post test in category"
-categories: [ Basics, Writing ]
+categories: Basics
 permalink: /:title/
 image: assets/images/styles-of-writing.png
 featured: false
