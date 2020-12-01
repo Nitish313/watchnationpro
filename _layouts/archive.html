@@ -3,9 +3,9 @@ layout: default
 ---
 
 <a name="posts"></a>
-<archieve>
+<archive>
   <name>Posts</name>
-  {%- assign posts = site.posts | where:"categories","post" -%}
+  {%- assign posts = site.posts | where:"categories","Basic" -%}
   {%- assign groupedByYear = posts | group_by_exp:"post","post.date | date:'%Y' " -%}
   <!-- total posts: {{ posts.size }} -->
 
@@ -23,4 +23,4 @@ layout: default
     </list>
   </yearlist>
   {% endfor %}
-</archieve>
+</archive>
