@@ -1,12 +1,7 @@
 ---
 layout: post
-title: <title>
-date: '2017-09-09T14:45:00.000+02:00'
-author: <name>
-tags:
-- tag1
-- tag2
-categories: post
+title:  "Post test in category"
+categories: [ Basics, Writing ]
 permalink: /:title/
 image: assets/images/styles-of-writing.png
 featured: false
