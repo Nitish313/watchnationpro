@@ -7,6 +7,10 @@ tags:
 - tag1
 - tag2
 categories: post
+permalink: /:title/
+image: assets/images/styles-of-writing.png
+featured: false
+author: Nazurudeen
 ---
 
 
