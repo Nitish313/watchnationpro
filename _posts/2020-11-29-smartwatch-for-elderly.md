@@ -59,11 +59,16 @@ Its heart rate monitoring is top-notch, using a built-in Echocardiogram.  As wit
     <tbody>
         <tr>
             <td>
-            <ul>Heart rate monitoring is top-notch, using a built-in Echocardiogram</ul>
-            <ul>Good emergency notifications capabilities</ul>
-            <ul>Finds if user falls on the ground</ul>
+            <ul>
+            <li>Heart rate monitoring is top-notch, using a built-in Echocardiogram</li>
+            <li>Good emergency notifications capabilities</li>
+            <li>Finds if user falls on the ground</li>
             </td>
-            <td>Costly when compared to other brands</td>
+            <td>
+            <ul>
+            <li>Costly when compared to other brands</li>
+            </ul>
+            </td>
         </tr>
         <tr>
             <td>Good emergency notifications capabilities</td>
