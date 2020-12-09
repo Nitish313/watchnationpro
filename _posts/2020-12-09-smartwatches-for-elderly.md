@@ -5,6 +5,8 @@ It was a breezy evening, and sam was sitting in the veranda thinking about his o
 
 Sam thinks about the quarrels with his mom Celina on how she used to shout at him when he assigned a person to accompany and monitor her. Celina thinks that it is intruding her independence. She hated travelling to the hospital often and did not like the lengthy procedure to undergo various medical tests. Sam had to wait at the hospital and get the test reports. 
 
+We all have our Sam's and Celina's at our home. 
+
 We all want to keep independence as we age.  Smartwatches will help, giving you the ability to monitor movement, heart rate, contact emergency services, and notify your nearest and dearest automatically if you fall.  However, the marketplace is flooded with choices, so how do you opt for the best one?  Go this manual to find your next smartwatch or one a friend or family member will love.
 These devices aren't just fun accessories but actual life-saving tech -- beneficial for elderly folks.
 
