@@ -14,7 +14,7 @@ Yes!! It is possible!
 With the use of smartwatch designed for elderly people.Smartwatches will help, giving you the ability to monitor movement, heart rate, contact emergency services, and notify your nearest and dearest automatically if someone falls.  
 
 However, the marketplace is flooded with choices, so how do you opt for the best one?  Go through this manual to find your next smartwatch or one a friend or family member will love.
-These devices aren't just fun accessories but actual life-saving tech -- beneficial for elderly folks.
+These devices aren't just fun accessories but actual life-saving technology beneficial for elderly folks.
 
 ## Apple Watch 6
 
