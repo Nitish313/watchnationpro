@@ -39,6 +39,8 @@ This view is excellent for Android users, since the operating system will functi
 
 ## Fitbit Versa 3
 
+![fitbit]({{site.baseurl}}/_posts/fitbit.png)
+
 Speaking of easy, Fitbit has been viewed among the very awkward alternatives in regards to smartwatches.Fitbit is just one of those big titles in fitness-focused watches.   It's an off-beat screen so there's no need to type in your password each time that you need to utilize it.Additionally, it's its very own internal GPS tracker that means that you can wear it outside on a walk and leave your telephone in your home.Though the simplistic layout may be helpful for most, the Versa 3 will lack a few of the characteristics which make smartwatches perfect for seniors.  There are not any sudden fall notifications as well as the automated contact characteristics which make Apple Watch or Samsung Galaxy Watch useful are severely lacking.In case you've got an iPhone, bear in mind Fitbit does not play flawlessly with Apple products.
 
 ## Lively Call
