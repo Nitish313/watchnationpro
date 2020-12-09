@@ -22,7 +22,6 @@ These devices aren't just fun accessories but actual life-saving technology bene
 
 ![Smartwatch-for-elderly]({{site.baseurl}}/assets/images/apple-watch-6.png)
 
-
 Think  about smartwatch, and there's a good chance the Apple Watch springs to mind.  It is a favorite choice for the tech-savvy and Apple lovers alike, and it is much more than just a flashy gadget.  It is the surface of the market for a motive. The Apple Watch Series 6 includes an assortment of features ideal for elderly people trying to maintain liberty. 
 Its heart rate monitoring is top-notch, using a built-in Echocardiogram.  As with other top of line smartwatches, Apple Watch has GPS capabilities, the ability to make and receive calls in addition to texts, and check social media. Apple Watch includes some fairly substantial emergency notification attributes, too.  It can inform emergency responders if it finds a sudden fall or perhaps an abnormal heart rate.  These features have proven to be more reliable and have saved a lot of lives over recent years. Apple6 smartwatch may be the top of the lineup, but that also means it includes is quite costly.  The battery life is something that also leaves us to be desired, and it does not always work well with non-Apple tablets.
 
