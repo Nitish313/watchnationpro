@@ -74,7 +74,7 @@ Think  about smartwatch, and there's a good chance the Apple Watch springs to mi
 
 As with other top of line smartwatches, Apple Watch has GPS capabilities, the ability to make and receive calls in addition to texts, and check social media. Apple Watch includes some fairly substantial emergency notification attributes, too.  It can inform emergency responders if it finds a sudden fall of the person wearing it or perhaps an abnormal heart rate.  These features have proven to be more reliable and have saved a lot of lives over recent years. Apple6 smartwatch may be the top of the lineup, but that also means it includes is quite costly.  The battery life is something that also leaves us to be desired, and it does not always work well with non-Apple tablets.
 
-![buy-now]({{site.baseurl}}/assets/images/buy-now.jpeg)
+![buy-now]({{site.baseurl}}/assets/images/buy-now.jpg)
 
 ## Samsung Galaxy Watch 3
 
