@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Smartwatch for elderly people"
+title:  "Smartwatch for Elderly People"
 description: "Elderly people needs special health monitoring. Get the buyers guide to select best smartwatch for elderly people to track their health indicators. The article also covers the list of best smartwatch for seniors and diabetic."
 excerpt: "Elderly people needs special health monitoring. Get the buyers guide to select best smartwatch for elderly people to track their health indicators. The article also covers the list of best smartwatch for seniors and diabetic."
 categories: [ Smartwatch ]
