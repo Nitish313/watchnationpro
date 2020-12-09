@@ -3,7 +3,7 @@ published: false
 ---
 It was a breezy evening, and sam was sitting in the veranda thinking about his old aged mom, Celina. She was turning ill and her eye sights were blurred because of diabetic and other health conditions. She fell down yesterday while walking in the garden. It took fifteen minutes for their family members to realize that Celina had fallen down. She was taken to the hospital to find out her health conditions. Doctor measured Celina's heartbeat, diabeties level, body temperature and said that all were normal. Sam was relieved there after. Now, sam is watching his mom sipping her coffee, while his mobile received a call from his office.
 
-
+Sam thinks about the quarrels with his mom Celina on how she 
 
 We all want to keep independence as we age.  Smartwatches will help, giving you the ability to monitor movement, heart rate, contact emergency services, and notify your nearest and dearest automatically if you fall.  However, the marketplace is flooded with choices, so how do you opt for the best one?  Go this manual to find your next smartwatch or one a friend or family member will love.
 These devices aren't just fun accessories but actual life-saving tech -- beneficial for elderly folks.
