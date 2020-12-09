@@ -59,10 +59,10 @@ Its heart rate monitoring is top-notch, using a built-in Echocardiogram.  As wit
     <tbody>
         <tr>
             <td>
-            <ul class="pros">
-            <li>Heart rate monitoring is top-notch, using a built-in Echocardiogram</li>
-            <li>Good emergency notifications capabilities</li>
-            <li>Finds if user falls on the ground</li>
+            <ul>
+            <li class="pros">Heart rate monitoring is top-notch, using a built-in Echocardiogram</li>
+            <li class="pros">Good emergency notifications capabilities</li>
+            <li class="pros">Finds if user falls on the ground</li>
             </ul>
             </td>
             <td>
