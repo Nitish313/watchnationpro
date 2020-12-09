@@ -45,6 +45,8 @@ Speaking of easy, Fitbit has been viewed among the very awkward alternatives in 
 
 ## Lively Call
 
+
+
 Contrary to the Apple Watch or Samsung Galaxy Watch, the Lively includes its 24/7 emergency support you may use for assistance at any moment. If a drop or whenever you press the watch's emergency button, then Lively will try to contact you. It is going to notify a close relative or caretaker then should you require assistance. Among the serious drawbacks is its mobile compatibility. This can cause a problem for those using older devices that can not run the most recent operating system. The Lively Wearable two is a device created only for seniors. It's a huge screen for simple reading and an additional loudspeaker for simple listening. It is still slick and fashionable, which means you won't seem strange from other sporting similar devices. Among the other big advantages of this unit is its unbelievable battery life, with around 4 weeks of constant wearing. You won't need to remember to charge it nightly or even take it off. Additionally, it is water-resistant; therefore, it can remain on your wrist in the tub or shower.
 
 ## Freedom Guardian
