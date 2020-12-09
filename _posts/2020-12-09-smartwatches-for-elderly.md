@@ -27,6 +27,8 @@ Its heart rate monitoring is top-notch, using a built-in Echocardiogram.  As wit
 
 ## Samsung Galaxy Watch 3
 
+![samsung-galaxy-watch-3]({{site.baseurl}}/_posts/samsung-galaxy-watch-3.png)
+
 In comparison to Apple Watch, it has got a considerably bigger display, which means larger text if your eyes are not so sharp .
 
 It is water-resistant, also, and contains voice to text capacities which may make texting a great deal simpler.
