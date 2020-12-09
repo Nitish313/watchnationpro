@@ -108,6 +108,15 @@ table {
     border-top: $table-cell-border-top;
 }
 
+.table li,
+%table li {
+  content:'\2713';
+  display:inline-block;
+  color:red;
+  padding:0 6px 0 0;
+  }
+ul li{list-style-type:none;font-size:1em;}
+
 /*  Sets table header font-weight to bold.
  *  Aligns table header text to the bottom of each cell. */
 .table th,
