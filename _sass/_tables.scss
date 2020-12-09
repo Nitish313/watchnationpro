@@ -201,7 +201,10 @@ table {
     border-radius: 0 0 $table-bordered-child-radius 0;
 }
 
-li {
-  list-style: "👍";
-  list-style-position: outside!important;
-}
+ul li:before
+{content:'\2713';
+  display:inline-block;
+  color:red;
+  padding:0 6px 0 0;
+  }
+ul li{list-style-type:none;font-size:1em;}
