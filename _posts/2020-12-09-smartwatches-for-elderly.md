@@ -7,7 +7,10 @@ Sam thinks about the quarrels with his mom Celina on how she used to shout at hi
 
 We all have our Sam's and Celina's at our home who suffer and fear the consequence of bad health for elderly people at our home.
 
-All these problem can be solved through 
+All these problem can be solved through one solution. 
+
+Yes!! It is possible! The use of smartwatch. 
+
 Smartwatches will help, giving you the ability to monitor movement, heart rate, contact emergency services, and notify your nearest and dearest automatically if you fall.  However, the marketplace is flooded with choices, so how do you opt for the best one?  Go this manual to find your next smartwatch or one a friend or family member will love.
 These devices aren't just fun accessories but actual life-saving tech -- beneficial for elderly folks.
 
