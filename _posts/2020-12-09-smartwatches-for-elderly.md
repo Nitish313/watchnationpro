@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-Smartwatches are currently become a must-have device for anyone seeking to up their tech match.  These tiny supercomputers enable us to do things we've got just thought possible in old sci-fi films.  We can now check messages, monitor our steps, create video calls, and much more right out of our wrist.
+It was a breezy evening, and sam was sitting in the veranda thinking about his old aged mom. She was turning ill and her eye sights were blurred because of diabetic and other health conditions.
 
 We all want to keep independence as we age.  Smartwatches will help, giving you the ability to monitor movement, heart rate, contact emergency services, and notify your nearest and dearest automatically if you fall.  However, the marketplace is flooded with choices, so how do you opt for the best one?  Go this manual to find your next smartwatch or one a friend or family member will love.
 These devices aren't just fun accessories but actual life-saving tech -- beneficial for elderly folks.
