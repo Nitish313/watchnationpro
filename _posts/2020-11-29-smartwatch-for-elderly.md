@@ -58,15 +58,19 @@ Its heart rate monitoring is top-notch, using a built-in Echocardiogram.  As wit
     </thead>
     <tbody>
         <tr>
-            <td>Peter</td>
-            <td>Parker</td>
+            <td>
+            <ul>Heart rate monitoring is top-notch, using a built-in Echocardiogram</ul>
+            <ul>Good emergency notifications capabilities</ul>
+            <ul>Finds if user falls on the ground</ul>
+            </td>
+            <td>Costly when compared to other brands</td>
         </tr>
         <tr>
-            <td>Bruce</td>
+            <td>Good emergency notifications capabilities</td>
             <td>Wayne</td>
         </tr>
         <tr>
-            <td>Clark</td>
+            <td>Finds if user falls on the ground</td>
             <td>Kent</td>
         </tr>
     </tbody>
