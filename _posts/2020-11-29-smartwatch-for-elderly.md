@@ -63,6 +63,7 @@ Its heart rate monitoring is top-notch, using a built-in Echocardiogram.  As wit
             <li>Heart rate monitoring is top-notch, using a built-in Echocardiogram</li>
             <li>Good emergency notifications capabilities</li>
             <li>Finds if user falls on the ground</li>
+            </ul>
             </td>
             <td>
             <ul>
