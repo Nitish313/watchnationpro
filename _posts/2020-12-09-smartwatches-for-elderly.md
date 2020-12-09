@@ -2,6 +2,7 @@
 published: false
 ---
 # Smartwatches for Elderly
+
 It was a breezy evening, and sam was sitting in the veranda thinking about his old aged mom, Celina. She was turning ill and her eye sights were blurred because of diabetic and other health conditions. She could not see properly and fell down yesterday while walking in the garden. It took fifteen minutes for their family members to realize that Celina had fallen down. She was taken to the hospital to find out her health conditions. Doctor measured Celina's heartbeat, diabeties level, body temperature and said that all were normal. Sam was relieved there after. Now, sam is watching his mom sipping her coffee, while his mobile received a call from his office.
 
 Sam thinks about the quarrels with his mom Celina on how she used to shout at him when he assigned a person to accompany and monitor her. Celina thinks that it is intruding her independence. She hated travelling to the hospital often and did not like the lengthy procedure to undergo various medical tests. Sam had to wait at the hospital and get the test reports. 
@@ -18,6 +19,9 @@ However, the marketplace is flooded with choices, so how do you opt for the best
 These devices aren't just fun accessories but actual life-saving technology beneficial for elderly folks.
 
 ## Apple Watch 6
+
+![Smartwatch-for-elderly]({{site.baseurl}}/assets/images/apple-watch-6.png)
+
 
 Think  about smartwatch, and there's a good chance the Apple Watch springs to mind.  It is a favorite choice for the tech-savvy and Apple lovers alike, and it is much more than just a flashy gadget.  It is the surface of the market for a motive. The Apple Watch Series 6 includes an assortment of features ideal for elderly people trying to maintain liberty. 
 Its heart rate monitoring is top-notch, using a built-in Echocardiogram.  As with other top of line smartwatches, Apple Watch has GPS capabilities, the ability to make and receive calls in addition to texts, and check social media. Apple Watch includes some fairly substantial emergency notification attributes, too.  It can inform emergency responders if it finds a sudden fall or perhaps an abnormal heart rate.  These features have proven to be more reliable and have saved a lot of lives over recent years. Apple6 smartwatch may be the top of the lineup, but that also means it includes is quite costly.  The battery life is something that also leaves us to be desired, and it does not always work well with non-Apple tablets.
