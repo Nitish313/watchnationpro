@@ -1,26 +1,26 @@
 # Site
-name: "TechWritersNation.com"
-title: "TechWritersNation.com "
-description: "Love Writing? Looking for a career to be Technical writer? Find the ultimate guidance in my blog to find the basic, career related and advanced stuff in the world of Technical communication industry. "
-meta_description: "Love Writing? Looking for a career to be Technical writer? Find the ultimate guidance in my blog to find the basic, career related and advanced stuff in the world of Technical communication industry."
+name: "WatchNationPro.com"
+title: "Home | WatchNationPro.com "
+description: "Love watches? Look for the perfect watch guide, tips and reviews to save money, make life easier, work smarter and earn more money and respect following the latest trends in watch industry."
+meta_description: "Love watches? Look for the perfect watch guide, tips and reviews to save money, make life easier, work smarter and earn more money and respect following the latest trends in watch industry."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: '/'
-email: 'nazeerbai@gmail.com'
-google_analytics: 'G-9KKHQ5Z5XZ'
+email: 'jumpingjoytechsolutions@gmail.com'
+google_analytics: 'G-XXXXXXXXX'
 disqus: 'demowebsite'
 sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
 
 # Authors
 authors:
-  Nazurudeen:
-    name: Nazurudeen
-    display_name: Nazurudeen
+  JJ:
+    name: JJ
+    display_name: JJ
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: nazeerbai@gmail.com
-    web: https://www.linkedin.com/in/nazurudeen-j-09529118/
-    description: "Nazurudeen J. is the Administrator of the blogs at TechWritersNation.com."
+    email: jumpingjoytechsolutions@gmail.com
+    web: https://
+    description: "JJ is the Administrator of the blogs at TechWritersNation.com."
 
 # Plugins
 plugins:
