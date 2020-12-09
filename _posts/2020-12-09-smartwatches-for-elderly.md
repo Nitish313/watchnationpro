@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-It was a breezy evening, and sam was sitting in the veranda thinking about his old aged mom, Celina. She was turning ill and her eye sights were blurred because of diabetic and other health conditions. She fell down yesterday while walking in the garden. It took fifteen minutes for their family members to realize that Celina had fallen down. She was taken to the hospital to find out her health conditions. Doctor measured Celina's heartbeat, diabeties level, body temperature and said that all were normal. Sam was relieved there after. Now, sam is watching his mom sipping her coffee, while his mobile received a call from his office.
+It was a breezy evening, and sam was sitting in the veranda thinking about his old aged mom, Celina. She was turning ill and her eye sights were blurred because of diabetic and other health conditions. She could not see properly and fell down yesterday while walking in the garden. It took fifteen minutes for their family members to realize that Celina had fallen down. She was taken to the hospital to find out her health conditions. Doctor measured Celina's heartbeat, diabeties level, body temperature and said that all were normal. Sam was relieved there after. Now, sam is watching his mom sipping her coffee, while his mobile received a call from his office.
 
 Sam thinks about the quarrels with his mom Celina on how she used to shout at him when he assigned a person to accompany and monitor her. She hated travelling to the hospital often and did not like the lengthy procedure to undergo various medical tests. 
 
