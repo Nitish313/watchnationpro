@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Smartwatch for Elderly People"
-description: "Elderly people needs special health monitoring. Get the buyers guide to select best smartwatch for elderly people to track their health indicators. The article also covers the list of best smartwatch for seniors and diabetic."
+description: "Elderly people needs special health monitoring. Get the buyers guide to select best smartwatch for elderly people to track their health indicators, save money and time."
 excerpt: "Elderly people needs special health monitoring. Get the buyers guide to select best smartwatch for elderly people to track their health indicators. The article also covers the list of best smartwatch for seniors and diabetic."
 categories: [ Smartwatch ]
 permalink: /:title/
@@ -58,7 +58,7 @@ Think  about smartwatch, and there's a good chance the Apple Watch springs to mi
         <tr>
             <td>
             <ul>
-            <li>Heart rate monitoring is top-notch, using a built-in Echocardiogram</li>
+            <li>Top-notch Heart rate monitoring with built-in Echocardiogram</li>
             <li>Good emergency notifications capabilities</li>
             <li>Finds if user falls on the ground</li>
             </ul>
@@ -66,6 +66,7 @@ Think  about smartwatch, and there's a good chance the Apple Watch springs to mi
             <td>
             <ul>
             <li>Costly when compared to other brands</li>
+            <li>Less compatible with non-apple devices</li>
             </ul>
             </td>
         </tr>
@@ -80,25 +81,58 @@ As with other top of line smartwatches, Apple Watch has GPS capabilities, the ab
 
 ![samsung-galaxy-watch-3]({{site.baseurl}}/assets/images/samsung-galaxy-watch-3.png)
 
+Samsung's smartwatch also includes excellent health and security features, such as fall detection, the same as the Apple Watch. It can monitor stress levels and heart rate, also, and inform you once you want to unwind.
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Pros</th>
+            <th>Cons</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+            <ul>
+            <li>Larger display</li>
+            <li>Works well with android devices</li>
+            <li>Voice to text facility</li>
+            </ul>
+            </td>
+            <td>
+            <ul>
+            <li>Less compatible with non-apple devices</li>
+            </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 In comparison to Apple Watch, it has got a considerably bigger display, which means larger text if your eyes are not so sharp .
 
 It is water-resistant, also, and contains voice to text capacities which may make texting a great deal simpler.
 
-Samsung's smartwatch also includes excellent health and security features, such as fall detection, the same as the Apple Watch. It may monitor stress levels and heart rate, also, and inform you once you want to unwind.
+This view is excellent for Android users, since the operating system will function better compared to pairing up an iPhone using a non-Apple Watch. If your loved one isn't necessarily tech-savvy, read on.
 
-This view is excellent for Android users, since the operating system will function better compared to pairing up an iPhone using a non-Apple Watch. Remember, all of the bells and whistles may be somewhat confusing. If your loved one isn't necessarily tech-savvy, read on.
+![buy-now]({{site.baseurl}}/assets/images/buy-now.jpg)
 
 ## Fitbit Versa 3
 
 ![fitbit]({{site.baseurl}}/assets/images/fitbit.png)
 
-Speaking of easy, Fitbit has been viewed among the very awkward alternatives in regards to smartwatches.Fitbit is just one of those big titles in fitness-focused watches.   It's an off-beat screen so there's no need to type in your password each time that you need to utilize it.Additionally, it's its very own internal GPS tracker that means that you can wear it outside on a walk and leave your telephone in your home.Though the simplistic layout may be helpful for most, the Versa 3 will lack a few of the characteristics which make smartwatches perfect for seniors.  There are not any sudden fall notifications as well as the automated contact characteristics which make Apple Watch or Samsung Galaxy Watch useful are severely lacking.In case you've got an iPhone, bear in mind Fitbit does not play flawlessly with Apple products.
+Speaking of easy, Fitbit has been viewed among the very awkward alternatives in regards to smartwatches.Fcitbit is just one of those big titles in fitness-focused watches.   It's an always-ON screen so there's no need to type in your password each time that you need to utilize it. Additionally, it's its very own internal GPS tracker that means that you can wear it outside on a walk and leave your telephone in your home. Though the simplistic layout may be helpful for most, the Versa 3 will lack a few of the characteristics which make smartwatches perfect for seniors.  There are not any sudden fall notifications as well as the automated contact characteristics which make Apple Watch or Samsung Galaxy Watch useful are severely lacking.In case you've got an iPhone, bear in mind Fitbit does not play flawlessly with Apple products.
+
+![buy-now]({{site.baseurl}}/assets/images/buy-now.jpg)
 
 ## Lively Call
 
 Contrary to the Apple Watch or Samsung Galaxy Watch, the Lively includes its 24/7 emergency support you may use for assistance at any moment. If a drop or whenever you press the watch's emergency button, then Lively will try to contact you. It is going to notify a close relative or caretaker then should you require assistance. Among the serious drawbacks is its mobile compatibility. This can cause a problem for those using older devices that can not run the most recent operating system. The Lively Wearable two is a device created only for seniors. It's a huge screen for simple reading and an additional loudspeaker for simple listening. It is still slick and fashionable, which means you won't seem strange from other sporting similar devices. Among the other big advantages of this unit is its unbelievable battery life, with around 4 weeks of constant wearing. You won't need to remember to charge it nightly or even take it off. Additionally, it is water-resistant; therefore, it can remain on your wrist in the tub or shower.
 
+![buy-now]({{site.baseurl}}/assets/images/buy-now.jpg)
+
 ## Freedom Guardian
 
 The working of Freedom Guardian Watch is very similar to the Lively.   One of the most significant plus points is its two-way communicating attribute.  Freedom Guardian works similarly to a walkie-talkie, and you're able to connect 24/7 to emergency services or receive non-emergency assistance. The easy-to-use screen is another plus.   Plus, it has all of the features you wish to stay safe, including sudden fall notifications, GPS monitoring, and medication reminders. It's essential to be aware that the Freedom watch is only compatible with AT&T support, which means if you have any other cellular supplier, you will have to receive another plan.
 Additionally, it lacks several advanced features like heart rate monitoring and stress level testing.  Nonetheless, it's cheap, and the monthly cost comes in at $20.We all need to maintain our independence as we got old, and technology is making it easier and easier to do so.  These watches are just the start of the technology you can put into your loved one's homes to assist them to have happy and comfortable golden decades.   Harness or click here to get more technology that may help seniors.
+
+![buy-now]({{site.baseurl}}/assets/images/buy-now.jpg)
